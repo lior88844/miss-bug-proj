@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "u101",
+    "fullname": "Lior Doron",
+    "username": "liorD",
+    "password": "8888",
+    "isAdmin": false
+  },
+  {
+    "_id": "u102",
+    "fullname": "Eden Derhi",
+    "username": "edenD",
+    "password": "1212",
+    "isAdmin": false
+  },
+  {
+    "_id": "u103",
+    "fullname": "Tamar Shalem",
+    "username": "tamarS",
+    "password": "1111",
+    "isAdmin": false
+  },
+  {
+    "_id": "u105",
+    "username": "admin",
+    "fullname": "Big Boss",
+    "password": "admin",
+    "isAdmin": true
+  }
+]
